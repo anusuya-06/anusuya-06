@@ -66,9 +66,11 @@ software applications and improving my skills.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anusuya-06&show_icons=true&theme=tokyonight)
+My GitHub repositories and contributions
+reflect my continuous learning and development journey.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anusuya-06&layout=compact&theme=tokyonight)
+Explore my work:
+[Visit My GitHub Profile](https://github.com/anusuya-06)
 
 ---
 
